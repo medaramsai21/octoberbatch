@@ -6,7 +6,6 @@ stage('Build')
 {
 steps{
 git credentialsId: 'GitHub', url: 'https://github.com/NageshDevopscontent/mavenpractice.git'
-sh 'mvn install'
 echo "Building the Code.........."
 }
 }
