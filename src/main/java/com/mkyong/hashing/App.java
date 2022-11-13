@@ -1,6 +1,6 @@
 package com.mkyong.hashing;
 
-import org.apache.commons.codec.digest.DigestUtils;
+
 //A new class with APP
 public class App {
 
